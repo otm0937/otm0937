@@ -18,13 +18,13 @@ Here are some ideas to get you started:
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1%20Million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
 **🐱 저의 GitHub 정보에요.** 
 
-> 🏆 227 만큼의 Contributions을 2022년에 했어요
+> 🏆 228 만큼의 Contributions을 2022년에 했어요
  > 
 > 📦 GitHub의 35.1 kB만큼의 저장소를 사용하고 있어요. 
  > 
@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 
 ```text
 🌞 아침         23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
-🌆 낮　         80 commits     ██████████░░░░░░░░░░░░░░░   40.82% 
-🌃 저녁         68 commits     ████████░░░░░░░░░░░░░░░░░   34.69% 
+🌆 낮　         81 commits     ██████████░░░░░░░░░░░░░░░   41.33% 
+🌃 저녁         67 commits     ████████░░░░░░░░░░░░░░░░░   34.18% 
 🌙 밤　         25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.76%
 
 ```
@@ -105,5 +105,5 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/otm0937/otm0937/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/07/2022 18:50:19 UTC
+ Last Updated on 20/07/2022 18:49:12 UTC
 <!--END_SECTION:waka-->
