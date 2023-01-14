@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -105,5 +105,5 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/otm0937/otm0937/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/01/2023 18:40:47 UTC
+ Last Updated on 14/01/2023 18:38:25 UTC
 <!--END_SECTION:waka-->
