@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C001%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C002%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 > 📦 GitHub의 177.1 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 124 만큼의 Contributions을 2023년에 했어요
+> 🏆 128 만큼의 Contributions을 2023년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -95,5 +95,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/otm0937/otm0937/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2023 18:37:32 UTC
+ Last Updated on 19/09/2023 18:38:02 UTC
 <!--END_SECTION:waka-->
