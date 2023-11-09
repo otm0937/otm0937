@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C006%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C007%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -61,16 +61,16 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+Dart                     53 mins             █████████████████████████   100.00 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+VS Code                  53 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 프로젝트들: 
-이번 주에 활동은 없어요.
+first_app                53 mins             █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Mac                      53 mins             █████████████████████████   100.00 % 
 ```
 
 **저는 주로 Java 언어를 사용해요.** 
@@ -90,5 +90,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/otm0937/otm0937/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2023 18:36:56 UTC
+ Last Updated on 09/11/2023 18:36:58 UTC
 <!--END_SECTION:waka-->
