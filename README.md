@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C007%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-62.1%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
@@ -61,16 +61,16 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Bash                     2 mins              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 🐱‍💻 프로젝트들: 
-Unknown Project          2 mins              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 **저는 주로 Java 언어를 사용해요.** 
@@ -90,5 +90,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/otm0937/otm0937/main/assets/bar_graph.png)
 
 
- Last Updated on 19/11/2023 18:35:55 UTC
+ Last Updated on 21/11/2023 18:38:28 UTC
 <!--END_SECTION:waka-->
