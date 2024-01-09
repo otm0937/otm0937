@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C013%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C013%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -90,5 +90,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/otm0937/otm0937/main/assets/bar_graph.png)
 
 
- Last Updated on 08/01/2024 18:37:45 UTC
+ Last Updated on 09/01/2024 18:35:56 UTC
 <!--END_SECTION:waka-->
