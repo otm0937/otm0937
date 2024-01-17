@@ -98,5 +98,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/otm0937/otm0937/main/assets/bar_graph.png)
 
 
- Last Updated on 16/01/2024 18:37:21 UTC
+ Last Updated on 17/01/2024 18:37:27 UTC
 <!--END_SECTION:waka-->
