@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 > 📦 GitHub의 177.7 kB만큼의 저장소를 사용하고 있어요. 
  > 
+> 🏆 13 만큼의 Contributions을 2024년에 했어요
+ > 
 > 🚫 구직중이지 않아요.
  > 
 > 📜 23개의 Public Repository를 만들었어요. 
@@ -92,5 +94,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/otm0937/otm0937/main/assets/bar_graph.png)
 
 
- Last Updated on 14/03/2024 18:35:35 UTC
+ Last Updated on 15/03/2024 18:35:40 UTC
 <!--END_SECTION:waka-->
