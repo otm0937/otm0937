@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C073%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C074%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 **🐱 저의 GitHub 정보에요.** 
 
 > 📦 GitHub의 177.7 kB만큼의 저장소를 사용하고 있어요. 
- > 
-> 🏆 14 만큼의 Contributions을 2024년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -95,5 +93,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/otm0937/otm0937/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2024 18:39:02 UTC
+ Last Updated on 20/06/2024 18:38:34 UTC
 <!--END_SECTION:waka-->
